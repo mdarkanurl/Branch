@@ -1,3 +1,4 @@
-Hello I'm test GitHub Branching festure.
-I'm push those code.
-I'm pull those code.
+Hello, I'm testing the GitHub Branching feature.
+I'm pushing those codes.
+I'm pulling those codes.
+I've created a second branch.
