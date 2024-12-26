@@ -1,2 +1,3 @@
 Hello I'm test GitHub Branching festure.
 I'm push those code.
+I'm pull those code.
